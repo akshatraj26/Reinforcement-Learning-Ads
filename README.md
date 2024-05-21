@@ -37,4 +37,12 @@ pip install -r requirements.txt
 
 ```
 
+![Upper Confidence Bound](https://github.com/akshatraj26/Reinforcement-Learning-Ads/blob/main/upper-confidence-bound.png)
+![Multi arm bandit](https://github.com/akshatraj26/Reinforcement-Learning-Ads/blob/main/multi-arm-bandit.png)
+![Bayesian](https://github.com/akshatraj26/Reinforcement-Learning-Ads/blob/main/bayesian_inference.png)
+![Thompson](https://github.com/akshatraj26/Reinforcement-Learning-Ads/blob/main/thompson_sampling.png)
+
+
+
+
 ### I am not the owner of this code. I converted the youtube code into module for my practice
